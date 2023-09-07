@@ -1,0 +1,31 @@
+*{
+	color: grey;
+}
+.list_wrapper{
+display: flex;
+justify-content: space-around;
+}
+.list_info{
+	margin-left: 30px;
+display: flex;
+flex-direction: column;
+}
+.genre{
+	display:flex;
+
+}
+.list_detail{
+	background-color: black;
+}
+.back{
+	background-color: black;
+	border: 2px solid grey;
+		border-radius: 10px;
+		height: 26px;
+		margin-top: 25px;
+}
+.name_film{
+	display: flex;
+	justify-content: space-around;
+
+}
